@@ -1,5 +1,10 @@
 # Compiled class file
 *.class
+*.com
+*.dll
+*.exe
+*.o
+*.so
 
 # Log file
 *.log
@@ -12,7 +17,15 @@
 *.zip
 *.tar.gz
 *.rar
+
+# OS files
 .DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
 
 *.classpath
 *.project
