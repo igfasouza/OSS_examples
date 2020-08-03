@@ -1,4 +1,4 @@
-# Using Kafka-Python Python SDK 
+# Using Kafka-Python SDK 
 
 [Kafka-python](https://pypi.org/project/kafka-python/)
 
