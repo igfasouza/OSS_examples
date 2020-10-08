@@ -1,0 +1,5 @@
+profile: kafka
+defaultPackage: mn.oss.kafka
+---
+testFramework: junit
+sourceLanguage: java

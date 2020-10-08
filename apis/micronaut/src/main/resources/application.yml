@@ -1,0 +1,33 @@
+---
+micronaut:
+  application:
+    name: mn-oss-kafka
+---
+kafka:
+  bootstrap:
+    servers: streaming.us-phoenix-1.oci.oraclecloud.com:9092
+  security:
+    protocol: SASL_SSL
+  sasl:
+    mechanism: PLAIN
+  key:
+    serializer: org.apache.kafka.common.serialization.StringSerializer
+    deserializer: org.apache.kafka.common.serialization.StringDeserializer
+  value:
+    serializer: org.apache.kafka.common.serialization.StringSerializer
+    deserializer: org.apache.kafka.common.serialization.StringDeserializer
+  retries: 5
+  max:
+    request:
+      size: 1048576
+    partition:
+      fetch:
+        bytes: 1048576
+  group:
+    id: group-0
+---
+codes:
+  recursive:
+    kafka:
+      topic:
+        name:
