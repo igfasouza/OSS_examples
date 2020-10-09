@@ -4,6 +4,30 @@ This is an repository for sample code examples
 
 [OSS](https://docs.cloud.oracle.com/en-us/iaas/Content/Streaming/Concepts/streamingoverview.htm)
 
+```
+project
+│   README.md    
+└───apis
+│   └───Spark
+│   │   └─── Java
+│   │   │    Scala
+│   │   │    ...
+│   └───Flink
+│   │   └─── Scala
+│   │        ...
+└───languages
+│   └───Python
+│   │   └─── comnsumer
+│   │   │    producer
+│   └───Java
+│   │   │    comnsumer
+│   │   │    producer
+│   │   │   ...
+│   ...
+...
+
+```
+
 
 ### Contributing
 
