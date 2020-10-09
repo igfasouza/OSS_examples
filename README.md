@@ -17,10 +17,10 @@ project
 │   │        ...
 └───languages
 │   └───Python
-│   │   └─── comnsumer
+│   │   └─── consumer
 │   │   │    producer
 │   └───Java
-│   │   │    comnsumer
+│   │   │    consumer
 │   │   │    producer
 │   │   │   ...
 │   ...
