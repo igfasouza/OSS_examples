@@ -29,12 +29,12 @@ Resources
 
 Videos
 
-[OCI Level 100 - Streaming](https://www.youtube.com/watch?v=WEEWMIASbnA&t=9s)
-[Get To Know Streaming And Deploy Your First Stream On The Oracle Cloud](https://www.youtube.com/watch?v=W18QLj0uJoQ)
+* [OCI Level 100 - Streaming](https://www.youtube.com/watch?v=WEEWMIASbnA&t=9s)
+* [Get To Know Streaming And Deploy Your First Stream On The Oracle Cloud](https://www.youtube.com/watch?v=W18QLj0uJoQ)
 
 Courses
 
-[https://ocitraining.qloudable.com/lab/fd57865d-bf88-4735-acb9-7452c866dde5](https://ocitraining.qloudable.com/lab/fd57865d-bf88-4735-acb9-7452c866dde5)
+* [https://ocitraining.qloudable.com/lab/fd57865d-bf88-4735-acb9-7452c866dde5](https://ocitraining.qloudable.com/lab/fd57865d-bf88-4735-acb9-7452c866dde5)
 
 
 ```
