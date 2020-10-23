@@ -2,9 +2,10 @@
 
 This is an repository for sample code examples
 
-[OSS doc](https://docs.cloud.oracle.com/en-us/iaas/Content/Streaming/Concepts/streamingoverview.htm)
+[Oracle Streaming Service: doc](https://docs.cloud.oracle.com/en-us/iaas/Content/Streaming/Concepts/streamingoverview.htm)
+[Oracle Streaming Service: level 100](https://www.oracle.com/a/ocom/docs/cloud/streaming-100.pdf)
 
-Resource
+Resources
 
 * [Getting Your Feet Wet With OCI Streams](https://blogs.oracle.com/developers/getting-your-feet-wet-with-oci-streams)
 * [Getting Started With Oracle Streaming Service OSS](https://blogs.oracle.com/developers/getting-started-with-oracle-streaming-service-oss)
@@ -26,6 +27,14 @@ Resource
 * [Ingest IoT Data from MQTT Brokers into OCI-Oracle Streaming Service, OCI- Kafka Connect Harness and Oracle Kubernetes Engine](https://medium.com/@vamsiramakrishnan/ingest-iot-data-from-mqtt-brokers-into-oci-oracle-streaming-service-oci-kafka-connect-harness-and-301c5b8a9be7)
 * [Event Sourcing with Oracle Streaming Service + Oracle Autonomous Transaction Processing + Kafka Connect on Oracle Cloud Infrastructure](https://medium.com/@vamsiramakrishnan/event-sourcing-with-oracle-streaming-service-oracle-autonomous-transaction-processing-kafka-81068ffee4cd)
 
+Videos
+
+[OCI Level 100 - Streaming](https://www.youtube.com/watch?v=WEEWMIASbnA&t=9s)
+[Get To Know Streaming And Deploy Your First Stream On The Oracle Cloud](https://www.youtube.com/watch?v=W18QLj0uJoQ)
+
+Courses
+
+[https://ocitraining.qloudable.com/lab/fd57865d-bf88-4735-acb9-7452c866dde5](https://ocitraining.qloudable.com/lab/fd57865d-bf88-4735-acb9-7452c866dde5)
 
 
 ```
